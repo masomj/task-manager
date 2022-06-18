@@ -6,3 +6,4 @@ os.environ.setdefault("SECRET_KEY","any_secret_key")
 os.environ.setdefault("DEBUG","True")
 os.environ.setdefault("DEVELOPMENT","True")
 os.environ.setdefault("DB_URL","postgresql:///taskmanager")
+C:\Users\mason\OneDrive\Desktop\Frontend Learning\TASK MANAGER APP
